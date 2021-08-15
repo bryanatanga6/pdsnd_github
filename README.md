@@ -12,7 +12,7 @@ Describe what your project is about and what it does
 Using python to explore data related to bike share systems of three major cities - Chicago, New York City and Washington
 ### Files used
 Include the files used
-
+I used data files of chicago, Washington and New York City
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
