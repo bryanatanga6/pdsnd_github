@@ -9,7 +9,7 @@ Replace the Project Title
 bike-share
 ### Description
 Describe what your project is about and what it does
-
+Using python to explore data related to bike share systems of three major cities - Chicago, New York City and Washington
 ### Files used
 Include the files used
 
